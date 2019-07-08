@@ -15,4 +15,7 @@ class IndexController {
     public function add(){
         return "苏程宽111";
     }
+    public function updata(){
+        return "修改";
+    }
 }
