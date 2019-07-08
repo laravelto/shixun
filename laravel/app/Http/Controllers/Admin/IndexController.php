@@ -5,7 +5,10 @@
  * Date: 2019/7/8
  * Time: 14:01
  */
-class index {
+namespace App\Http\Controllers\Admin;
+
+
+class IndexController {
     public function index(){
         return "李小飞";
     }
