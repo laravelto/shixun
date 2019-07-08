@@ -9,4 +9,7 @@ class index {
     public function index(){
         return "李小飞";
     }
+    public function add(){
+        return "xiaosu";
+    }
 }
