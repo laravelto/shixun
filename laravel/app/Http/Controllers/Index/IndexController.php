@@ -3,6 +3,6 @@ class index
 {
     public function index()
     {
-        echo "aaa";
+        echo "aaa12323123";
     }
 }
