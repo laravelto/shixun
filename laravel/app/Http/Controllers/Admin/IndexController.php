@@ -13,6 +13,6 @@ class IndexController {
         return "李小飞";
     }
     public function add(){
-        return "xiaosu";
+        return "苏程宽";
     }
 }

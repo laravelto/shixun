@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/admin/index/index', 'admin\IndexController@index')->name('admin.login');
-Route::get('/admin/index/add', 'admin\IndexController@add')->name('jia');
+Route::get('Admin.Login', 'admin\IndexController@index')->name('Admin.Admin');
+Route::get('Admin.Add', 'admin\IndexController@add')->name('jia');
